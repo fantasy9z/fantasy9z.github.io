@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.dht1 {
+    background: #000000;
+    height: 90px;
+    width: 100%;
+    text-align: center;
+}
+
+.dht1 p {
+    height: 100px;
+    line-height: 100px;
+    color: white;
+    margin: auto;
+    font-family: 微软雅黑;
+    font-size: 20px;
+    position: relative;
+    left: 250px;
+
+}
+
+.dht1 > p > a:link {
+    color: white
+}
+
+.dht1 > p > a:visited {
+    color: white
+}
+
+.dht1 > p > a:hover {
+    color: darkred
+}
+
+.dht1 > p > a:active {
+    color: darkred
+}
+
+
+.wenan1 {
+    background-color: white;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.wenan1 p {
+    text-align: center;
+    line-height: 35px;
+    width: 70%;
+    margin: auto;
+    color: darkgray;
+    font-size: 17px;
+}
+
+.pain a {
+
+    line-height: 200px;
+    font-size: 300%;
+    text-decoration: none;
+    color: #000000;
+}
+
+.wenan2 {
+    background-color: darkred;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.wenan2 p {
+    text-align: center;
+    line-height: 35px;
+    width: 70%;
+    margin: auto;
+    color: darkgray;
+    font-size: 17px;
+}
+
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#customers td, #customers th {
+    font-size: 1em;
+    border: 1px solid black;
+    padding: 10px 8px 2px 7px;
+}
+
+#customers th {
+    font-size: 1.1em;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: black;
+    color: white;
+    border: 1px solid saddlebrown;
+}
+
+#customers tr.alt td {
+    color: darkred;
+    background-color: darkred;
+}
+
+#customers tr {
+    background-color: darkred;
+}
+
+
+.beijing1 {
+    background: url("../img/xzz4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+    margin: auto;
+}
+
+.sp1 {
+    position: absolute;
+    top: 3050px;
+    left: 820px;
+    width: 40%;
+}
+
+.pn1 p, a {
+    text-align: center;
+    margin: auto;
+
+    text-decoration: none;
+}
+
+a.pn5:link {
+    color: white;
+}
+
+a.pn5:hover {
+    color: firebrick;
+}
+
+.wx {
+    position: absolute;
+    top: 3800px;
+    width: 280px;
+    height: 280px;
+    left: 1200px;
+}
+
+
+
